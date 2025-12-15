@@ -1,4 +1,4 @@
-# Hi, Welcome to my Github profile! 👋
+# Hi, Welcome to my Github ! 👋
 My name is Duc (Justin) Vu - currently a Business Analyst and a desired Data Scientist in Sydney, NSW.
 
 With my skills and experience in Business Analytics, I'm on track to complete my Master of Data Science degree, where I look forward to optimising the growth of AI and Machine Learning tools to solve daily challenges and complex business tasks.
